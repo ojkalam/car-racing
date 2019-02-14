@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1502034419 source:e:\1-work dairy on iubat\8th semester\csc- 455\projects\car racing final\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
